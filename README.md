@@ -6,6 +6,9 @@ This notebook is taken from:
 
 https://www.kaggle.com/code/firuzjuraev/molecules-machine-learning/notebook
 
+![molecule](https://user-images.githubusercontent.com/74653444/177920837-84a2b529-3c6e-4b51-88f4-223f36ed9608.png)
+
+
 </br>
 
 </br>
